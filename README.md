@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rahul Voleti 👋
 
-<!--
-**VoletiRahul/VoletiRahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with nearly 2 years of experience in manual and automation testing.
+I'm currently building an LLM-powered tool that converts manual test cases into 
+automation code — bridging traditional QA with AI.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **Testing:** Selenium, TestNG, Postman, JIRA
+- **Languages:** Python, Java
+- **Currently exploring:** AI testing, LLM integration in QA workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+**Manual → Automation Converter** — An LLM-based tool that takes manual test 
+case descriptions and generates ready-to-run automation scripts.
+
+## 📫 Connect
+- LinkedIn: (paste your LinkedIn URL here)
+- Email: (your email here)
